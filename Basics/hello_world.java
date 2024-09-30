@@ -43,9 +43,10 @@ class Hello_world { // [0]
  * `public static void main(String[] args)` this statment have alot of keywords
  * for the time being take a look at:- `void`, `main`
  *
- * void:- as the name suggest void means nothing similarly this keyword means
+ * void :- as the name suggest void means nothing similarly this keyword means
  * this method dosen't return anything!
- * main:- it's just the name of the method. Its necessary to name the method
+ *
+ * main :- it's just the name of the method. Its necessary to name the method
  * `main` since javac will be looking for this perticular key
  *
  * [2] This line is calls a in-built class called System and then call a method
