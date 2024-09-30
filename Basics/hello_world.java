@@ -44,7 +44,7 @@ class Hello_world { // [0]
  * for the time being take a look at:- `void`, `main`
  *
  * void:- as the name suggest void means nothing similarly this keyword means
- * this function dosen't return anything!
+ * this method dosen't return anything!
  * main:- it's just the name of the method. Its necessary to name the method
  * `main` since javac will be looking for this perticular key
  *
